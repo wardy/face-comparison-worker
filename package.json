@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "microsoft-cognitive-services": "../microsoft-cognitive-services"
+    "microsoft-cognitive-services": "../microsoft-cognitive-services",
+    "request": "^2.74.0",
+    "typescript": "^2.0.0"
   }
 }
